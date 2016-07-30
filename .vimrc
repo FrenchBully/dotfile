@@ -23,7 +23,6 @@ set virtualedit=onemore
 set nowrap            " Don't wrap lines
 set tabstop=4         " tab is 4 spaces
 set shiftwidth=4      " autoindent is 4 spaces
-set list              " show invisible characters
 
 """"""""""""""""""""""""""
 " Easier Split Navigations
